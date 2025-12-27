@@ -23,6 +23,7 @@ def remove(a):
             print(a[i],end='')
 ```
 ## Output
-![Uploading image.png…]()
+<img width="954" height="242" alt="image" src="https://github.com/user-attachments/assets/56019799-2dbd-4a05-b9f9-0044c7f6e3bb" />
+
 
 ## Result
